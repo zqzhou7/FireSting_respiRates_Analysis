@@ -8,7 +8,8 @@ This repository provides a **step-by-step R Markdown tutorial** for calculating 
 
 This tutorial is ideal for researchers working with aquatic respirometry or conducting physiological experiments with oxygen sensors.
 
-> 🔗 Access this notebook on GitHub: [RespirationRateAnalysis](https://github.com/zqzhou7/RespirationRateAnalysis.git)
+> 🔗 Published example on: [RespirationRateAnalysis](http://dx.doi.org/10.1016/j.scitotenv.2022.153621
+![Published example](published_example.jpg)
 
 ---
 
